@@ -1,6 +1,6 @@
 # ameniwa.github.io
 
-* My github.io
+* My github.io : https://ameniwa.github.io
 
 ```
 bundle config set --local path 'vendor/bundle'
